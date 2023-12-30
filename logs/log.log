@@ -1,0 +1,84 @@
+2023-12-30T14:54:42+08:00	info	Go-Project-Template/main.go:14	sakura
+2023-57-30 14:57:51	info	Go-Project-Template/main.go:14	sakura
+2023-04-30 15:04:18	info	Go-Project-Template/main.go:14	sakura
+2023-05-30 15:05:06	info	Go-Project-Template/main.go:14	stdout
+2023-08-30 15:08:24	info	Go-Project-Template/main.go:14	stdout
+2023-11-30 15:11:34	info	Go-Project-Template/main.go:14	stdout
+2023-13-30 15:13:30	info	Go-Project-Template/main.go:14	stdout
+2023-13-30 15:13:30	error	Go-Project-Template/main.go:17	stdout
+2023-13-30 15:13:49	info	Go-Project-Template/main.go:14	stdout
+2023-13-30 15:13:49	error	Go-Project-Template/main.go:17	stdout
+2023-13-30 15:13:49	debug	Go-Project-Template/main.go:18	stdout
+2023-32-30 15:32:08	info	Go-Project-Template/main.go:14	stdout
+2023-32-30 15:32:08	error	Go-Project-Template/main.go:17	stdout
+2023-32-30 15:32:08	debug	Go-Project-Template/main.go:18	stdout
+2023-32-30 15:32:31	info	Go-Project-Template/main.go:14	stdout
+2023-32-30 15:32:31	error	Go-Project-Template/main.go:17	stdout
+2023-32-30 15:32:31	debug	Go-Project-Template/main.go:18	stdout
+2023-34-30 15:34:22	info	Go-Project-Template/main.go:14	stdout
+2023-34-30 15:34:22	error	Go-Project-Template/main.go:17	stdout
+2023-34-30 15:34:22	debug	Go-Project-Template/main.go:18	stdout
+2023-59-30 15:59:23	error	Go-Project-Template/main.go:17	stdout
+2023-16-30 16:16:14	error	Go-Project-Template/main.go:17	stdout
+2023-18-30 16:18:54	error	Go-Project-Template/main.go:13	errrrrr
+2023-19-30 16:19:57	error	Go-Project-Template/main.go:13	errrrrr
+2023-20-30 16:20:32	error	Go-Project-Template/main.go:13	errrrrr
+2023-21-30 16:21:11	error	Go-Project-Template/main.go:13	errrrrr
+2023-22-30 16:22:41	info	Go-Project-Template/main.go:11	stdout
+2023-22-30 16:22:41	debug	Go-Project-Template/main.go:12	stdout
+2023-22-30 16:22:41	error	Go-Project-Template/main.go:13	errrrrr
+2023-28-30 16:28:26	info	Go-Project-Template/main.go:11	stdout
+2023-28-30 16:28:26	debug	Go-Project-Template/main.go:12	stdout
+2023-28-30 16:28:26	error	Go-Project-Template/main.go:13	errrrrr
+2023-30-30 16:30:25	info	Go-Project-Template/main.go:13	stdout
+2023-30-30 16:30:25	debug	Go-Project-Template/main.go:14	stdout
+2023-30-30 16:30:25	error	Go-Project-Template/main.go:15	errrrrr
+2023-31-30 16:31:16	info	Go-Project-Template/main.go:13	stdout
+2023-31-30 16:31:16	debug	Go-Project-Template/main.go:14	stdout
+2023-31-30 16:31:16	error	Go-Project-Template/main.go:15	errrrrr
+main.main
+	F:/Go-Project/Go-Project-Template/main.go:15
+runtime.main
+	F:/Environment/GolangSDK/go/src/runtime/proc.go:267
+2023-34-30 16:34:43	error	Go-Project-Template/main.go:16	errrrrr
+main.main
+	F:/Go-Project/Go-Project-Template/main.go:16
+runtime.main
+	F:/Environment/GolangSDK/go/src/runtime/proc.go:267
+2023-36-30 16:36:37	warn	Go-Project-Template/main.go:16	warn
+main.main
+	F:/Go-Project/Go-Project-Template/main.go:16
+runtime.main
+	F:/Environment/GolangSDK/go/src/runtime/proc.go:267
+2023-36-30 16:36:37	error	Go-Project-Template/main.go:17	Error
+main.main
+	F:/Go-Project/Go-Project-Template/main.go:17
+runtime.main
+	F:/Environment/GolangSDK/go/src/runtime/proc.go:267
+2023-36-30 16:36:37	panic	Go-Project-Template/main.go:18	Panic
+main.main
+	F:/Go-Project/Go-Project-Template/main.go:18
+runtime.main
+	F:/Environment/GolangSDK/go/src/runtime/proc.go:267
+2023-37-30 16:37:08	warn	Go-Project-Template/main.go:16	warn
+2023-37-30 16:37:08	error	Go-Project-Template/main.go:17	Error
+2023-37-30 16:37:08	panic	Go-Project-Template/main.go:18	Panic
+2023-40-30 16:40:50	debug	Go-Project-Template/main.go:14	debug
+2023-40-30 16:40:50	info	Go-Project-Template/main.go:15	Info
+2023-40-30 16:40:50	warn	Go-Project-Template/main.go:16	warn
+2023-40-30 16:40:50	error	Go-Project-Template/main.go:17	Error
+2023-40-30 16:40:50	panic	Go-Project-Template/main.go:18	Panic
+2023-41-30 16:41:00	debug	Go-Project-Template/main.go:14	debug
+2023-41-30 16:41:00	info	Go-Project-Template/main.go:15	Info
+2023-41-30 16:41:00	warn	Go-Project-Template/main.go:16	warn
+2023-41-30 16:41:00	error	Go-Project-Template/main.go:17	Error
+2023-41-30 16:41:00	panic	Go-Project-Template/main.go:18	Panic
+2023-41-30 16:41:46	debug	Go-Project-Template/main.go:14	debug
+2023-41-30 16:41:46	info	Go-Project-Template/main.go:15	Info
+2023-41-30 16:41:46	warn	Go-Project-Template/main.go:16	warn
+2023-41-30 16:41:46	error	Go-Project-Template/main.go:17	Error
+2023-00-30 17:00:59	info	test/log_test.go:11	sakura
+2023-01-30 17:01:35	debug	Go-Project-Template/main.go:14	debug
+2023-01-30 17:01:35	info	Go-Project-Template/main.go:15	Info
+2023-01-30 17:01:35	warn	Go-Project-Template/main.go:16	warn
+2023-01-30 17:01:35	error	Go-Project-Template/main.go:17	Error
